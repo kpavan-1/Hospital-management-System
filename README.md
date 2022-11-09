@@ -6,6 +6,6 @@ The patient can register himself/herself at the reception counter with his basic
 The patient can be either a OPD patient or can admitted to the the hospital and also get a room based on his budget from the list of different types of rooms available.
 The patient can also get the medicines from the hospital and also undergo different tests present in the hospital. At the time of leaving the hospital the patient need to clear all his bills.
 
-Technologies Used
+# Technologies Used
 Java : NetBeans
 DBMS : MySql
