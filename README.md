@@ -8,4 +8,4 @@ The patient can also get the medicines from the hospital and also undergo differ
 
 Technologies Used
 Java : NetBeans
-DBMS : Wamp server (MySql)
+DBMS : MySql
